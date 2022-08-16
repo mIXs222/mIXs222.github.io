@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Bio
+title: About
 permalink: /
 subtitle: Ph.D. Student, <a href='https://cs.illinois.edu/'>Illinois CS (UIUC)</a>
 

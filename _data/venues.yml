@@ -1,0 +1,18 @@
+"SIGMOD":
+  url: https://sigmod.org
+
+"VLDB":
+  url: https://vldb.org
+
+"ICDE":
+  url: https://dblp.org/db/conf/icde/index.html
+
+"IROS":
+  url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
+
+"GECCO":
+  url: https://sig.sigevo.org/index.html/tiki-index.php?page=GECCOs
+
+"CoRR":
+  url: https://arxiv.org
+  color: "#828282"
