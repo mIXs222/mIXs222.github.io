@@ -22,15 +22,16 @@ social: true  # includes social icons at the bottom of the page
 - [CreateLab](https://createlab.cs.illinois.edu/)
 - [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), [Grainger College of Engineering](https://grainger.illinois.edu/), [Department of Computer Science](https://cs.illinois.edu/) -->
 
-I am a Ph.D. student in the Data and Information Systems Laboratory (DAIS) at the University of Illinois at Urbana-Champaign (UIUC). My research revolves around data systems in the grand intersection of database management systems, database internals, distributed systems, probabilistic algorithms, data mining, and machine learning.
+I am a Ph.D. student in the Data and Information Systems Laboratory (DAIS) at the University of Illinois Urbana-Champaign (UIUC). My research interests revolve around data systems at the intersection of database management systems, data mining, probabilistic algorithms, machine learning, and distributed systems.
 
 As a summer intern, I have tinkered with someone else's data systems: 
+[Google AlloyDB's](https://cloud.google.com/alloydb) database tuning, 
 [Google Data Pipeline's](https://cloud.google.com/dataflow) distributed shuffle, 
 [Robinhood Spending's](https://www.robinhoodcashcard.com) transaction, 
 [Facebook Location-Aware Distribution's](https://engineering.fb.com/2018/07/19/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/) large-scale data distribution, 
 and [Uber's](https://www.uber.com) analytics infrastructure.
 
-During my tour as an undergraduate at the University of Texas at Austin, I was fortunate to get exposure to research, and more importantly, connect with influential people. I joined many eye-opening research groups: 
+During my time at the University of Texas at Austin, I was fortunate to get exposure to research, and more importantly, connect with influential people. I joined many eye-opening research groups: 
 Center for Computational Visualization ([CVC](https://cvcweb.oden.utexas.edu/cvcwp/)), 
 Personal Autonomous Robotics Lab ([PeARL](https://pearl-utexas.github.io)), 
 and Neural Networks Research Group ([NNRG](https://nn.cs.utexas.edu/?evolution)), working with Prof. Chandrajit L. Bajaj, Prof. Scott Niekum, Caleb C. Chuck, and Prof. Cem C. Tutum. 
@@ -38,15 +39,10 @@ Thanks to [ACM ICPC](https://icpc.global) and UT Programming Contest ([UTPC](htt
 
 ## Ongoing Projects
 
+- Transactional Python
+- Adaptive database physical design: indexes and layouts
 - Disaggregation and serverless databases
-- Indexes: learning and storage-aware automatic tuning
-- Online aggregation
-
-<!-- Disaggregation, serverless databases, edge computing
-I try to understand complexity
-I probably deal with unknowns
-I envision
-I build systems, develop theories to structure an understanding, -->
+- Deep online aggregation
 
 ## Teaching
 
@@ -54,6 +50,6 @@ CS 225: Data Structure ([Spring 2022](https://courses.engr.illinois.edu/cs225/sp
 
 ## Hobbies
 
-Running ([SF 2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), [Mahomet ½ 2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, swimming, biking, and discovering games.
+Running (IL ½ [2023](https://raceday.enmotive.com/#/events/2022-christie-clinic-illinois-marathon-weekend/results), SF [2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), IL Homecoming 5K [2022](https://runsignup.com/Race/Results/113775#resultSetId-346967)/[2021](https://runsignup.com/Race/Results/113775#resultSetId-260299), Mahomet ½ [2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, swimming, biking, and discovering games.
 
-<!-- My hometown is Songkhla/Hatyai and I have lived ($$\geq$$ 3 months) in Nakhon Pathom/Salaya, Oregon/Portland, Texas/Austin, California/Bay Area and Illinois/Champaign-Urbana -->
+<!-- My hometown is Songkhla/Hatyai and I have lived in Nakhon Pathom/Salaya, Oregon/Portland, Texas/Austin, California/Bay Area and Illinois/Champaign-Urbana -->

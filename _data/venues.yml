@@ -1,3 +1,5 @@
+# Conferences
+
 "SIGMOD":
   url: https://sigmod.org
 
@@ -12,6 +14,18 @@
 
 "GECCO":
   url: https://sig.sigevo.org/index.html/tiki-index.php?page=GECCOs
+
+
+# Workshops
+
+"AIDB":
+
+"DEEM":
+
+"SRC":
+
+
+# Preprints
 
 "CoRR":
   url: https://arxiv.org
