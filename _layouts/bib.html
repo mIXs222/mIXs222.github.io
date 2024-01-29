@@ -124,6 +124,11 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
+
+          <!-- Notes/remarks -->
+          {% if entry.note -%}
+            <em style="color: var(--global-text-color-light);">{{entry.note}}</em>
+          {%- endif %}
         
           <!-- Links/Buttons -->
           <div class="links">

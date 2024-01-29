@@ -46,10 +46,11 @@ Thanks to [ACM ICPC](https://icpc.global) and UT Programming Contest ([UTPC](htt
 
 ## Teaching
 
-CS 225: Data Structure ([Spring 2022](https://courses.engr.illinois.edu/cs225/sp2022/): AYJ, AYN, AYW)
+- CS 511: Advanced Data Management ([Fall 2023](https://yongjoopark.com/teaching/fall2023/cs511))
+- CS 225: Data Structure ([Spring 2022](https://courses.engr.illinois.edu/cs225/sp2022/): AYJ, AYN, AYW)
 
 ## Hobbies
 
-Running (IL ½ [2023](https://raceday.enmotive.com/#/events/2022-christie-clinic-illinois-marathon-weekend/results), SF [2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), IL Homecoming 5K [2022](https://runsignup.com/Race/Results/113775#resultSetId-346967)/[2021](https://runsignup.com/Race/Results/113775#resultSetId-260299), Mahomet ½ [2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, swimming, biking, and discovering games.
+Running (IL ½ [2023](https://raceday.enmotive.com/#/events/2022-christie-clinic-illinois-marathon-weekend/results), SF [2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), IL Homecoming 5K [2023](https://runsignup.com/Race/Results/152247#resultSetId-415481;perpage:100)/[2022](https://runsignup.com/Race/Results/113775#resultSetId-346967)/[2021](https://runsignup.com/Race/Results/113775#resultSetId-260299), Mahomet ½ [2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, swimming, biking, and discovering games.
 
 <!-- My hometown is Songkhla/Hatyai and I have lived in Nakhon Pathom/Salaya, Oregon/Portland, Texas/Austin, California/Bay Area and Illinois/Champaign-Urbana -->
