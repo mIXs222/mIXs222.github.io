@@ -126,6 +126,11 @@
         {%- endif %}
 
           <!-- Notes/remarks -->
+          {% if entry.award -%}
+            <div>
+              <em>{{entry.award}}</em>
+            </div>
+          {%- endif %}
           {% if entry.note -%}
             <em style="color: var(--global-text-color-light);">{{entry.note}}</em>
           {%- endif %}

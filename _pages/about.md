@@ -25,6 +25,7 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. student in the Data and Information Systems Laboratory (DAIS) at the University of Illinois Urbana-Champaign (UIUC). My research interests revolve around data systems at the intersection of database management systems, data mining, probabilistic algorithms, machine learning, and distributed systems.
 
 As a summer intern, I have tinkered with someone else's data systems: 
+[Google Spanner's](https://cloud.google.com/spanner) schema tuning,
 [Google AlloyDB's](https://cloud.google.com/alloydb) database tuning, 
 [Google Data Pipeline's](https://cloud.google.com/dataflow) distributed shuffle, 
 [Robinhood Spending's](https://www.robinhoodcashcard.com) transaction, 
@@ -51,6 +52,6 @@ Thanks to [ACM ICPC](https://icpc.global) and UT Programming Contest ([UTPC](htt
 
 ## Hobbies
 
-Running (IL ½ [2023](https://raceday.enmotive.com/#/events/2022-christie-clinic-illinois-marathon-weekend/results), SF [2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), IL Homecoming 5K [2023](https://runsignup.com/Race/Results/152247#resultSetId-415481;perpage:100)/[2022](https://runsignup.com/Race/Results/113775#resultSetId-346967)/[2021](https://runsignup.com/Race/Results/113775#resultSetId-260299), Mahomet ½ [2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, swimming, biking, and discovering games.
+Running (IL [2024](https://raceday.enmotive.com/#/events/2024-christie-clinic-illinois-race-weekend/results?category=Marathon&bracket_id=8da724c5-e778-4a9b-84c8-0cfd793f01bb&page=7), IL ½ [2023](https://raceday.enmotive.com/#/events/2022-christie-clinic-illinois-marathon-weekend/results), SF [2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), IL Homecoming 5K [2023](https://runsignup.com/Race/Results/152247#resultSetId-415481;perpage:100)/[2022](https://runsignup.com/Race/Results/113775#resultSetId-346967)/[2021](https://runsignup.com/Race/Results/113775#resultSetId-260299), Mahomet ½ [2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, swimming, biking, and discovering games.
 
 <!-- My hometown is Songkhla/Hatyai and I have lived in Nakhon Pathom/Salaya, Oregon/Portland, Texas/Austin, California/Bay Area and Illinois/Champaign-Urbana -->
