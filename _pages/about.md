@@ -40,9 +40,9 @@ Thanks to [ACM ICPC](https://icpc.global) and UT Programming Contest ([UTPC](htt
 
 ## Ongoing Projects
 
-- Transactional Python
-- Adaptive database physical design: indexes and layouts
-- Disaggregation and serverless databases
+- Transactional data analytics
+- Database tuning: indexes and layouts
+- Data engines for large language models
 - Deep online aggregation
 
 ## Teaching
@@ -52,6 +52,6 @@ Thanks to [ACM ICPC](https://icpc.global) and UT Programming Contest ([UTPC](htt
 
 ## Hobbies
 
-Running (IL [2024](https://raceday.enmotive.com/#/events/2024-christie-clinic-illinois-race-weekend/results?category=Marathon&bracket_id=8da724c5-e778-4a9b-84c8-0cfd793f01bb&page=7), IL ½ [2023](https://raceday.enmotive.com/#/events/2022-christie-clinic-illinois-marathon-weekend/results), SF [2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), IL Homecoming 5K [2023](https://runsignup.com/Race/Results/152247#resultSetId-415481;perpage:100)/[2022](https://runsignup.com/Race/Results/113775#resultSetId-346967)/[2021](https://runsignup.com/Race/Results/113775#resultSetId-260299), Mahomet ½ [2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, swimming, biking, and discovering games.
+Running/swimming/biking (Chicago Tri [2024](https://www.athlinks.com/event/30585/results/Event/1087072/Course/2499921/Bib/3917), IL [2024](https://raceday.enmotive.com/#/events/2024-christie-clinic-illinois-race-weekend/results?category=Marathon&bracket_id=8da724c5-e778-4a9b-84c8-0cfd793f01bb&page=7), IL ½ [2023](https://raceday.enmotive.com/#/events/2022-christie-clinic-illinois-marathon-weekend/results), SF [2022](https://www.athlinks.com/event/1403/results/Event/1020821/Results), IL Homecoming 5K [2023](https://runsignup.com/Race/Results/152247#resultSetId-415481;perpage:100)/[2022](https://runsignup.com/Race/Results/113775#resultSetId-346967)/[2021](https://runsignup.com/Race/Results/113775#resultSetId-260299), Mahomet ½ [2021](https://results.itsracetime.com/results.aspx?CId=17095&RId=6243&EId=1)), hiking, and discovering games.
 
 <!-- My hometown is Songkhla/Hatyai and I have lived in Nakhon Pathom/Salaya, Oregon/Portland, Texas/Austin, California/Bay Area and Illinois/Champaign-Urbana -->
