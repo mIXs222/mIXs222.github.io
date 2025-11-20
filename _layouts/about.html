@@ -6,7 +6,17 @@ layout: default
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+            <span id="flipping-name" class="flipping-name">
+              <span class="name-text active">
+                {% if site.title == "blank" -%}
+                  <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
+                {%- else -%}
+                  {{ site.title }}
+                {%- endif %}
+              </span> 
+              
+              <span class="name-text">{{ site.alt_title }}</span> 
+            </span>
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>

@@ -1,0 +1,30 @@
+/* Name Flip CSS */
+.flipping-name {
+  display: inline-block;
+  position: relative;
+  /* Important: Ensure the container doesn't jump in size. Adjust as needed. */
+  min-width: 250px; 
+  /* Fix: Prevent wrapping/line break within the flipper itself */
+  white-space: nowrap; 
+}
+
+.name-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  /* Flip Upward Fix: Start slightly *below* the final position (0) */
+  transform: translateY(15px); 
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+  cursor: pointer;
+  /* Fix: Ensure the text content itself stays on one line */
+  white-space: nowrap;
+}
+
+.name-text.active {
+  position: relative; /* Take up space when active */
+  opacity: 1;
+  /* Flip Upward Fix: End at the final position */
+  transform: translateY(0); 
+}
