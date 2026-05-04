@@ -25,17 +25,21 @@ social: true  # includes social icons at the bottom of the page
 - [CreateLab](https://createlab.cs.illinois.edu/)
 - [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), [Grainger College of Engineering](https://grainger.illinois.edu/), [Department of Computer Science](https://cs.illinois.edu/) -->
 
-I am a Visiting Faculty Researcher at Google, focusing on database efficiency research at scale and in emergent areas. My research interests revolve around data systems at the intersection of database management systems, data mining, probabilistic algorithms, machine learning, and distributed systems.
+I am an assistant professor at CMKL University and a Visiting Faculty Researcher at Google, focusing on database efficiency research at scale and in emergent areas. My research aims to bridge all gaps between _human_ and _data_, currently investigating data systems at the intersection of database management systems, data mining, probabilistic algorithms, machine learning, and distributed systems.
 
-I received my Ph.D. from the University of Illinois Urbana-Champaign (UIUC) in 2025 and my B.S. from the University of Texas at Austin in 2020, under the unwavering support of Prof. Yongjoo Park, the [CreateLab](https://createlab.cs.illinois.edu) members, Prof. Chandrajit L. Bajaj, Prof. Scott Niekum, Caleb C. Chuck, and Prof. Cem C. Tutum. The [ACM ICPC](https://icpc.global) and the UT Programming Contest ([UTPC](https://www.cs.utexas.edu/users/utpc/index.html)) are an important part of myself, having inspired me with extraordinarily talented teammates: Ethan Arnold, Ryan Rice, Celic Savk, Alex Meed, and Brian Richer.
-
-As a summer intern, I have tinkered with someone else's data systems: 
+In my prior life, I received my Ph.D. from the University of Illinois Urbana-Champaign (UIUC) in 2025 and my B.S. from the University of Texas at Austin in 2020, under the unwavering support of Prof. Yongjoo Park and [CreateLab](https://createlab.cs.illinois.edu) members.
+As summer interns, I have tinkered with someone else's data systems: 
 [Google Spanner's](https://cloud.google.com/spanner) schema tuning,
 [Google AlloyDB's](https://cloud.google.com/alloydb) database tuning, 
 [Google Data Pipeline's](https://cloud.google.com/dataflow) distributed shuffle, 
 [Robinhood Spending's](https://www.robinhoodcashcard.com) transaction, 
 [Facebook Location-Aware Distribution's](https://engineering.fb.com/2018/07/19/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/) large-scale data distribution, 
 and [Uber's](https://www.uber.com) analytics infrastructure.
+Competitive programming opportunities like [ACM ICPC](https://icpc.global) are also influential chapters of my journey, having inspired me with extraordinarily talented teammates and instilled in me a pursuit of elegant and performant data systems.
+
+<!-- Prof. Chandrajit L. Bajaj, Prof. Scott Niekum, Caleb C. Chuck, and Prof. Cem C. Tutum -->
+<!-- UT Programming Contest ([UTPC](https://www.cs.utexas.edu/users/utpc/index.html)) -->
+<!-- Ethan Arnold, Ryan Rice, Celic Savk, Alex Meed, and Brian Richer -->
 
 ## Ongoing Projects
 
@@ -48,6 +52,10 @@ and [Uber's](https://www.uber.com) analytics infrastructure.
 
 - CS 511: Advanced Data Management ([Fall 2023](https://yongjoopark.com/teaching/fall2023/cs511))
 - CS 225: Data Structure ([Spring 2022](https://courses.engr.illinois.edu/cs225/sp2022/): AYJ, AYN, AYW)
+
+## Advising
+
+**Prospective Students**: I am actively recruiting students to explore the frontiers of data systems together. If you are interested, please reach out to me (supawit at cmkl.ac.th).
 
 ## Hobbies
 
