@@ -4,7 +4,7 @@ Live at https://supawit.chockchowwat.com, https://mixs222.github.io
 
 ## Local Development
 
-```
+```bash
 bundle install
 bundle exec jekyll serve
 ```
